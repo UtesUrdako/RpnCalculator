@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Project\TZ BK Studio\Calculator\Calculator\obj\Debug\
+D:\Project\TZ BK Studio\Calculator\Calculator\obj\Release\
 Calculator
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Project\TZ BK Studio\Calculator\Calculator\App.xaml
 1219584333
 
-121440661232
+12-1043259472
 141590067010
 MainWindow.xaml;
 
-True
+False
 
